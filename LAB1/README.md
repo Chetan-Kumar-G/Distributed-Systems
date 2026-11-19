@@ -616,7 +616,7 @@ After completing this project, the following concepts can be understood and demo
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**CHETAN KUMAR G**
 
 Distributed Systems Lab Project
 
